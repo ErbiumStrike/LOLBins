@@ -15,10 +15,12 @@ It's important to note that these utilities are not inherently malicious, they c
 
 Inbound connections should be blocked to improve security on a system or network.
 
-                When a system or network allows inbound connections, it means that external entities can initiate a connection with the system or network. This can                     leave the system or network vulnerable to attack, as malicious actors can use this ability to connect to a system or network as a means of gaining                     access and compromising it.
+When a system or network allows inbound connections, it means that external entities can initiate a connection with the system or network. This can                     leave the system or network vulnerable to attack, as malicious actors can use this ability to connect to a system or network as a means of gaining                     access and compromising it.
 
-                By blocking inbound connections, a system or network is effectively closed off to external entities, making it much more difficult for malicious actors                 to gain access. This can greatly reduce the risk of a successful attack, and help to protect sensitive data and other assets.
+When a system or network allows inbound connections, it means that external entities can initiate a connection with the system or network. This can leave the system or network vulnerable to attack, as malicious actors can use this ability to connect to a system or network as a means of gaining                     access and compromising it.
 
-                It's worth noting that, while blocking all inbound connections can greatly improve security, it also limits the functionality of the system or network.                 Therefore, it's important to strike a balance between security and functionality by only allowing necessary inbound connections and closely monitoring                 any inbound connections that are allowed.
+By blocking inbound connections, a system or network is effectively closed off to external entities, making it much more difficult for malicious actors to gain access. This can greatly reduce the risk of a successful attack and help to protect sensitive data and other assets.
+
+It's worth noting that, while blocking all inbound connections can greatly improve security, it also limits the functionality of the system or network. Therefore, it's important to strike a balance between security and functionality by only allowing necessary inbound connections and closely monitoring                 any inbound connections that are allowed.
 
 
